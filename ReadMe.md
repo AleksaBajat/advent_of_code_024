@@ -1,4 +1,4 @@
-# Advent of Code 2025
+# Advent of Code 2024
 
 In the spirit of self-improvement, I will do advent of code in Rust.
 The solutions are going to be presented in day to day basis.
